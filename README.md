@@ -24,4 +24,4 @@ Feel free to create an issue for bug fixes or suggestions. Pull requests are wel
 
 Email: smallpythoncode@gmail.com
 
-Twitter: @small_python
+Twitter: [@small_python](https://twitter.com/small_python)
