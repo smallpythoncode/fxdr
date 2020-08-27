@@ -1,9 +1,0 @@
-certifi==2020.4.5.1
-chardet==3.0.4
-idna==2.7
-oandapyV20==0.6.3
-requests==2.20.0
-six==1.15.0
-ujson==1.35
-urllib3==1.24.3
-v20==3.0.25.0

@@ -5,3 +5,4 @@ __pycache__/
 .idea/tasks.xml
 todo.txt
 tracker_202007_shortcut.lnk
+requirements.txt
