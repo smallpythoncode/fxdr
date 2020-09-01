@@ -16,6 +16,8 @@ pip install fxdr
 
 Feel free to create an issue for bug fixes or suggestions. Pull requests are welcome for new features, patches, or enhancements.
 
+GitHub: [fxdr](https://github.com/smallpythoncode/fxdr)
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/) © [smallpythoncode](https://github.com/smallpythoncode/fxdr)
