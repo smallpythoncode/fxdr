@@ -14,14 +14,8 @@ setuptools.setup(
     url="https://github.com/smallpythoncode/fxdr",
     packages=setuptools.find_packages(),
     install_requires=[
-        "certifi",
-        "chardet",
-        "idna",
         "oandapyV20",
-        "requests",
         "six",
-        "ujson",
-        "urllib3",
         "v20",
     ],
 

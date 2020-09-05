@@ -3,5 +3,5 @@ __pycache__/
 .idea/workspace.xml
 .idea/usage.statistics.xml
 .idea/tasks.xml
-dev/todo.txt
-dev/tracker_202007_shortcut.lnk
+todo.txt
+tracker_202007_shortcut.lnk
