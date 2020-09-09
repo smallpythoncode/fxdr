@@ -1,0 +1,50 @@
+for 06 sep
+-setup sphinx
+  -add requirements.txt to docs folder
+    -modifiy for compatibility
+-finalize setup.py
+  -manifest.in
+    -exclude .idea/
+    -exclude __pycache__ and *.pyc, *.pyd, *.pyo
+  -url
+  -package_data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=============================
+
+-project name or __main__.py?
+-modify contributions??
+-learn sphinx
+
+=============================
+
+AUG
+-identify if there are any dependency packages that are not on pypi
+  -what can be included in install_requires= ?
+  -what must go in dependency_links= ?
+  -https://python-packaging.readthedocs.io/en/latest/dependencies.html
+-fxdr.py vs __main__.py
+-write/check for configuration file for version 0.1.0
+  -https://tutswiki.com/read-write-config-files-in-python/
+
+=============================
+20200723
+-save old files locally
+-rename old remote to botch (safe keeping)
+-start new remote
+-make v0.0.0
+-move old files to new repo
+-ignore all pycache global to .gitignore???
+=============================

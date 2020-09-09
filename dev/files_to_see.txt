@@ -1,0 +1,9 @@
+# files to see once package is downloaded during pypi testing
+
+CHANGELOG.md
+fxdr/
+    __init__.py
+    fxdr.py
+LICENSE
+README.md
+setup.py

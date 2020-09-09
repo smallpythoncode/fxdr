@@ -13,7 +13,11 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/smallpythoncode/fxdr",
     packages=setuptools.find_packages(),
-
+    install_requires=[
+        "oandapyV20",
+        "six",
+        "v20",
+    ],
 
 
 
