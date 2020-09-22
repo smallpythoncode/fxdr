@@ -1,0 +1,4 @@
+include *.md
+graft docs
+global-exclude *.py[cod] __pycache__
+prune dev

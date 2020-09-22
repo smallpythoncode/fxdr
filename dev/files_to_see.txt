@@ -7,3 +7,4 @@ fxdr/
 LICENSE
 README.md
 setup.py
+MANIFEST.in ??

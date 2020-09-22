@@ -1,18 +1,7 @@
-for 06 sep
--setup sphinx
-  -add requirements.txt to docs folder
-    -modifiy for compatibility
--finalize setup.py
-  -manifest.in
-    -exclude .idea/
-    -exclude __pycache__ and *.pyc, *.pyd, *.pyo
-  -url
-  -package_data
-
-
-
-
-
+-add reqs.txt to docs
+  -reqs proper
+  -reqs_docs
+=post sphinx
 
 
 
@@ -26,7 +15,6 @@ for 06 sep
 
 -project name or __main__.py?
 -modify contributions??
--learn sphinx
 
 =============================
 

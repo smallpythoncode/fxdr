@@ -1,8 +1,10 @@
-# fxdr
+# README - fxdr
 
 ## v0.0.0
 
 * Does nothing.
+
+View the CHANGELOG for details on previous versions.
 
 ## Installation
 
